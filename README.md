@@ -30,7 +30,8 @@ def circulate():
     ```
 
 ## Output:
-![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162345-558918b7-fcce-42fe-93cd-ecda159433f9.png)
+![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162382-1cb5531a-aba4-4d75-bbbb-b8b89910381b.png)
+
 
  
 
