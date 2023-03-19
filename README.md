@@ -15,8 +15,8 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 ### Step 5: 
 print the values of the circulate list
-### Step 6: End the program
-
+### Step 6:
+End the program
 ## Program:
 ```
 #Program to circulate N values.
@@ -28,9 +28,11 @@ def circulate():
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
     ```
+    
 
 ## Output:
-![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162382-1cb5531a-aba4-4d75-bbbb-b8b89910381b.png)
+
+![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162720-20067bce-7b65-4e32-8fd7-00eec34b24a2.png)
 
 
  
