@@ -30,7 +30,9 @@ def circulate():
     ```
 
 ## Output:
- C:\Users\SEC\Desktop\ex2 python ss.png
+![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162345-558918b7-fcce-42fe-93cd-ecda159433f9.png)
+
+ 
 
 
 
