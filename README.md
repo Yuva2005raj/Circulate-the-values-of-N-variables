@@ -30,7 +30,7 @@ def circulate():
     ```
 
 ## Output:
- ![ex2 python ss](https://user-images.githubusercontent.com/118343998/226162045-248b9869-7686-4c44-aa31-c11e310d88a6.png)
+ C:\Users\SEC\Desktop\ex2 python ss.png
 
 
 
