@@ -27,21 +27,10 @@ def circulate():
     n=int(input())
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
-    ```
+ ```  
     
     
-    
-    
-    
-    
-    
-
-
-
-
-
-
-## Output:
+ ## Output:
 
 ![python2 variables 2 ss](https://user-images.githubusercontent.com/118343998/226162720-20067bce-7b65-4e32-8fd7-00eec34b24a2.png)
 
@@ -51,4 +40,4 @@ def circulate():
 
 
 ## Result:
-Thus the circulate the values of n variables is executed
+Thus the circulate the values of n variables is executed   
